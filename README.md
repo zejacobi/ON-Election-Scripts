@@ -1,5 +1,7 @@
-# ON-Election-Scripts
-Scripts for parsing poll &amp; other data for the Ontario election
+[![Build Status](https://travis-ci.org/zejacobi/ON-Election-Scripts.svg?branch=master)](https://travis-ci.org/zejacobi/ON-Election-Scripts)
+
+# Ontario Election Scripts
+Scripts for parsing poll and other data for the Ontario election
 
 ## Installing
 * Install Python 3.5
