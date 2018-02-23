@@ -1,0 +1,132 @@
+{
+    "organization": "Forum Research",
+    "participants": 751,
+    "number-undecided": 50,
+    "dates": ["2018-01-25"],
+    "methodology": "interactive-voice",
+    "url": "http://poll.forumresearch.com/data/0c736f26-c8a2-4a65-83d6-889a2ee3c1afBrown%20Jan%2025.pdf",
+    "horse-race": {
+        "C": 42,
+        "L": 27,
+        "N": 23,
+        "G": 6,
+        "O": 2
+    },
+    "age": {
+        "18-34" : {
+            "sample": 109,
+            "C": 35,
+            "L": 27,
+            "N": 28,
+            "G": 8,
+            "O": 3
+        },
+        "35-44" : {
+            "sample": 105,
+            "C": 31,
+            "L": 34,
+            "N": 23,
+            "G": 10,
+            "O": 2
+        },
+        "45-54" : {
+            "sample": 123,
+            "C": 51,
+            "L": 23,
+            "N": 20,
+            "G": 4,
+            "O": 2
+        },
+        "55-64" : {
+            "sample": 152,
+            "C": 46,
+            "L": 29,
+            "N": 22,
+            "G": 3,
+            "O": 1
+        },
+        "65+" : {
+            "sample": 212,
+            "C": 44,
+            "L": 25,
+            "N": 22,
+            "G": 8,
+            "O": 1
+        }
+    },
+    "gender": {
+        "M": {
+            "sample": 406,
+            "C": 49,
+            "L": 25,
+            "N": 21,
+            "G": 5,
+            "O": 1
+        },
+        "F": {
+            "sample": 282,
+            "C": 36,
+            "L": 30,
+            "N": 25,
+            "G": 7,
+            "O": 2
+        }
+    },
+    "region": {
+        "E": {
+            "sample": 117,
+            "manually-adjusted": true,
+            "reason": "undecided",
+            "factor": 1.087,
+            "C": 45,
+            "L": 26,
+            "N": 17,
+            "G": 9,
+            "O": 3
+        },
+        "TO": {
+            "sample": 218,
+            "manually-adjusted": true,
+            "reason": "undecided",
+            "factor": 1.087,
+            "C": 36,
+            "L": 36,
+            "N": 21,
+            "G": 5,
+            "O": 1
+        },
+        "GTA": {
+            "sample": 171,
+            "manually-adjusted": true,
+            "reason": "undecided",
+            "factor": 1.03,
+            "C": 45,
+            "L": 27,
+            "N": 22,
+            "G": 4,
+            "O": 1
+        },
+        "SW": {
+            "sample": 157,
+            "manually-adjusted": true,
+            "reason": "undecided",
+            "factor": 1.15,
+            "C": 43,
+            "L": 24,
+            "N": 25,
+            "G": 7,
+            "O": 1
+        },
+        "N": {
+            "sample": 88,
+            "manually-adjusted": true,
+            "reason": "undecided",
+            "factor": 1.04,
+            "C": 39,
+            "L": 21,
+            "N": 30,
+            "G": 7,
+            "O": 2
+        }
+    }
+}
